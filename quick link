@@ -1,0 +1,19 @@
+<!--150 x 150 px game link-->
+
+    <a href=""target=_blank><img src=""style="height:150px;width:150px"></a>
+
+<!--200px x 200px game link-->
+
+    <a href=""target=_blank><img src=""style="height:200px;width:200px"></a>
+
+<!--150px x Auto Game link-->
+
+    <a href=""target=_blank><img src=""style="height:150px;width:auto"></a>
+
+<!--200px x Auto Game link-->
+
+    <a href=""target=_blank><img src=""style="height:200px;width:auto"></a>
+
+<!--Tutorial on how to use-->
+
+<a href="Link To Game Goes Here"target=_blank><img src="Link Adress To The Icon Image Goes Here"style="height:Desired Height Goes Here;width:Desired Width Goes Here"></a>
